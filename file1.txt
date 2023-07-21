@@ -1,3 +1,4 @@
 hi i m in file1 master
+line added in master file to complete the commit revert task
 Hi welcome to file 1
 
