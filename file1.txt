@@ -1,2 +1,5 @@
+hi i m in file1 master
+line added in master file to complete the commit revert task
 Hi welcome to file 1
 changes done in main branch to make a conflict and then revert back to last commit
+
